@@ -3,4 +3,4 @@ normalizedName := name.value
 
 scalaVersion := "2.13.10"
 
-libraryDependencies += "commons-io" % "commons-io" % "2.11.0"
+libraryDependencies += "commons-io" % "commons-io" % "2.15.0"
